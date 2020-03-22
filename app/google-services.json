@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "142803718075",
+    "firebase_url": "https://authenticationclassroom.firebaseio.com",
+    "project_id": "authenticationclassroom",
+    "storage_bucket": "authenticationclassroom.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:142803718075:android:836bbb85871ada1a813e9e",
+        "android_client_info": {
+          "package_name": "com.reloader.firebaseconnectclassroom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "142803718075-9rflhcnetemal4t5pf88f27dbdgvog5s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.reloader.firebaseconnectclassroom",
+            "certificate_hash": "68ff5d243458d51cb67691c1efbb73b2f64f6e37"
+          }
+        },
+        {
+          "client_id": "142803718075-v2f4pru9r20u8fm5b3mvfkmtt191qk26.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXsLrBABzFxJ0bx5oMuQM_7x77h-KWjpQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "142803718075-v2f4pru9r20u8fm5b3mvfkmtt191qk26.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

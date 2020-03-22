@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FirebaseConnectClassroom</string>
+    <string name="servidor_ruta">https://classroom.googleapis.com</string>
+</resources>
